@@ -1,5 +1,4 @@
 googler 4.3.2
-2021-01-21
 
 - Fix html class of result nodes (#393, fixes #392)
 - Do not sabotage stdin of url_handler (#386)
